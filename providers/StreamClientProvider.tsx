@@ -18,7 +18,6 @@ import {
     return (
       <StreamVideo client={client}>
         <StreamCall call={call}>
-          /* <MyVideoUI /> */
         </StreamCall>
       </StreamVideo>
     );
